@@ -14,6 +14,11 @@ for x in a:
             break
 ```
 Output
+
 <img width="757" height="36" alt="image" src="https://github.com/user-attachments/assets/5b653d6c-99fd-46f1-bfab-151ebc453197" />
 
+
+--- 
+
+### Fermat's little theorm
 
