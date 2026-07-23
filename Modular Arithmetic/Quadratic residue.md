@@ -8,7 +8,10 @@ a is the number from 0 to y-1 and if any of those numbers after equating  equals
 
 
 <img width="1013" height="112" alt="image" src="https://github.com/user-attachments/assets/82b7b45e-c509-4ba6-9de5-151eeef92700" />
+<img width="1080" height="242" alt="image" src="https://github.com/user-attachments/assets/4f307cc7-4f39-4d0c-8bf4-0c80791e2f16" />
 
+<img width="464" height="98" alt="image" src="https://github.com/user-attachments/assets/aff611ee-a73b-4578-8df3-8204e381d885" />
+This works only if the exponent (P+1)/4 is an integer
 
 
 ```python
@@ -30,5 +33,7 @@ for x in a:
 # Congruence
 
 <img width="862" height="587" alt="image" src="https://github.com/user-attachments/assets/0d004cef-b062-406b-8250-abe171f76afc" />
+
+We can say 40 and 16 are congruent since they both leave the same remainder(residue) after division by 3 (moduluo 3)
 
 
