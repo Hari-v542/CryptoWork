@@ -13,12 +13,15 @@ for x in a:
             print (i,x)
             break
 ```
-Output
+### Output
 
 <img width="757" height="36" alt="image" src="https://github.com/user-attachments/assets/5b653d6c-99fd-46f1-bfab-151ebc453197" />
 
 
 --- 
 
-### Fermat's little theorm
+# Congruence
+
+<img width="862" height="587" alt="image" src="https://github.com/user-attachments/assets/0d004cef-b062-406b-8250-abe171f76afc" />
+
 
