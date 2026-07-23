@@ -2,10 +2,14 @@
 
 ## equation [ a**2 = x mod (y) ]
 
+
+a is the number from 0 to y-1 and if any of those numbers after equating  equals to x, x is a quadratic residue. and its square root is a.
+
+
+
 <img width="1013" height="112" alt="image" src="https://github.com/user-attachments/assets/82b7b45e-c509-4ba6-9de5-151eeef92700" />
 
 
-a is the number from 0 to y-1 and if any of those numbers after equating  equals to x, x is a quadratic residue. and its square root is a.
 
 ```python
 a = [14,6,11]
