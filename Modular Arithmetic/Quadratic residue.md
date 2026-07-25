@@ -14,9 +14,9 @@
 <img width="1080" height="242" alt="image" src="https://github.com/user-attachments/assets/4f307cc7-4f39-4d0c-8bf4-0c80791e2f16" />
 
 <img width="464" height="98" alt="image" src="https://github.com/user-attachments/assets/aff611ee-a73b-4578-8df3-8204e381d885" />
-This works only if the exponent (P+1)/4 is an integer
+- This works only if the exponent (P+1)/4 is an integer
 
-
+### Code
 ```python
 a = [14,6,11]
 count =0
@@ -36,6 +36,8 @@ for x in a:
 # Congruence
 
 <img width="862" height="587" alt="image" src="https://github.com/user-attachments/assets/0d004cef-b062-406b-8250-abe171f76afc" />
+<img width="827" height="350" alt="image" src="https://github.com/user-attachments/assets/03996e87-ee46-4b86-b013-2f9bbd588186" />
+
 
 We can say 40 and 16 are congruent since they both leave the same remainder(residue) after division by 3 (moduluo 3)
 
