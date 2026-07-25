@@ -41,5 +41,10 @@ for x in a:
 
 We can say 40 and 16 are congruent since they both leave the same remainder(residue) after division by 3 (moduluo 3)
 
+---
 
 # Tonelli-Shanks Algorithm
+
+- While we use derivations from fermats little theorm to find sqaure roots of quadratic residue of the form p = 3 (mod 4)
+- we have to use tonelli's algorithm to find square roots for equations of the form p = 1 (mod 4)
+- Note - these are only possible if p is a prime number
