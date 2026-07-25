@@ -40,3 +40,4 @@ for x in a:
 We can say 40 and 16 are congruent since they both leave the same remainder(residue) after division by 3 (moduluo 3)
 
 
+# Tonelli-Shanks Algorithm
