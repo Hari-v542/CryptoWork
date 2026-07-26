@@ -63,4 +63,16 @@ We can say 40 and 16 are congruent since they both leave the same remainder(resi
 - Used when problems that have  very large numbers , break them down to simple identical problems using smaller numbers and reconstruct the final large answer.
 ---
 # Adrien's signs
+### Code:
+
+<img width="1030" height="431" alt="image" src="https://github.com/user-attachments/assets/0b84f11c-42d8-48e4-bd27-a79b54610222" />
+
+### Flag
+
+<img width="790" height="60" alt="image" src="https://github.com/user-attachments/assets/4889c3ef-51fc-4792-abdf-064f3507cade" />
+
+
+
+
+
 
