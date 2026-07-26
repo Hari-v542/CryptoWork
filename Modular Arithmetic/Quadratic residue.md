@@ -51,3 +51,11 @@ We can say 40 and 16 are congruent since they both leave the same remainder(resi
   
 ### Code
 <img width="689" height="122" alt="image" src="https://github.com/user-attachments/assets/731e9d8a-c294-431e-a9b7-3cae526c17ae" />
+---
+
+# Chinese remainder theorm
+
+- Used when problems that have  very large numbers , break them down to simple identical problems using smaller numbers and reconstruct the final large answer.
+---
+# Adrien's signs
+
