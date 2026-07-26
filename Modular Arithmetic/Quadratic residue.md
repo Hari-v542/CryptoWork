@@ -12,6 +12,8 @@
 
 <img width="1013" height="112" alt="image" src="https://github.com/user-attachments/assets/82b7b45e-c509-4ba6-9de5-151eeef92700" />
 <img width="1080" height="242" alt="image" src="https://github.com/user-attachments/assets/4f307cc7-4f39-4d0c-8bf4-0c80791e2f16" />
+# Eulers Criterion
+- 
 
 <img width="464" height="98" alt="image" src="https://github.com/user-attachments/assets/aff611ee-a73b-4578-8df3-8204e381d885" />
 - This works only if the exponent (P+1)/4 is an integer
