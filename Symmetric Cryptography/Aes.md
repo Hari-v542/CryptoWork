@@ -4,7 +4,16 @@
 https://www.youtube.com/watch?v=gP4PqVGudtg
 
 - the plain text is seperated into 16 bytes or 128 bits, it is converted into its hexadecimal byte form and then added to a 4x4 matrix column by column (column major order).
+### Steps:
 
+## Confusion (Subbytes)
+- Replaces each byte with a different one from a substituition box( s-box) , to make the encryption non linear
+## Diffusion (Shift rows and mix Columns)
+- Ensures changing a single bit drastically changes resulting ciphertext(avalanche effect)
+## Keying (AddRoundKey)
+- Actual secret key is introduced to be mixed with state matrix. A Keyexpansion algorithm is used to stretch single master key into multiple distinct roun keys
+
+  
 ``` python
 def bytes2matrix(text):
     return [list(text[i:i+4]) for i in range(0, len(text), 4)]
