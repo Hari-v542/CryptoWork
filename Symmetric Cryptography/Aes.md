@@ -1,5 +1,8 @@
 
 # AES notes
+
+https://www.youtube.com/watch?v=gP4PqVGudtg
+
 - the plain text is seperated into 16 bytes or 128 bits, it is converted into its hexadecimal byte form and then added to a 4x4 matrix column by column (column major order).
 
 ``` python
