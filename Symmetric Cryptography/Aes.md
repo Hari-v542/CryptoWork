@@ -28,3 +28,47 @@ print(matrix2bytes(matrix))
 ```
 
 Output - crypto{inmatrix}
+
+--- 
+Code:
+``` python
+
+
+state = [
+    [206, 243, 61, 34],
+    [171, 11, 93, 31],
+    [16, 200, 91, 108],
+    [150, 3, 194, 51],
+]
+
+round_key = [
+    [173, 129, 68, 82],
+    [223, 100, 38, 109],
+    [32, 189, 53, 8],
+    [253, 48, 187, 78],
+]
+
+def add_round_key(s, k):
+    final=[]
+    xored=[]
+    
+    for i in range(len(s)):
+        row =[]
+        for j in range(len(s[i])):
+            xored = s[i][j]^k[i][j]
+            row.append(xored)
+        final.append(row)
+    return final
+
+def matrix2bytes(x):
+    string =""
+    for m in x:
+        for n in m:
+            string = string+ chr(n)
+    print(string)
+
+matrix2bytes(add_round_key(state,round_key))
+
+
+```
+Output - crypto{r0undk3y}
