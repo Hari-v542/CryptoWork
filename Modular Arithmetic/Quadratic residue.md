@@ -60,7 +60,7 @@ We can say 40 and 16 are congruent since they both leave the same remainder(resi
 
 # Chinese remainder theorm
 
-- Used when problems that have  very large numbers , break them down to simple identical problems using smaller numbers and reconstruct the final large answer.
+- Used to find a number with remainders got from different moduli.(moduli must be pairwise coprimes).
 ---
 # Adrien's signs
 ### Code:
