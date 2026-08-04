@@ -1,3 +1,6 @@
+# Symmetric Cryptography
+
+
 # 1. Understand how the website works and how it can be used
 
 - First get the encrypted flag, decrypt it and finally decode it.
