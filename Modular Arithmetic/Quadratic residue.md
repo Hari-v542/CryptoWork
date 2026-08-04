@@ -61,6 +61,10 @@ We can say 40 and 16 are congruent since they both leave the same remainder(resi
 # Chinese remainder theorm
 
 - Used to find a number with remainders got from different moduli.(moduli must be pairwise coprimes).
+- We are given 3 equations of congruence .
+- Find modulo N by multiplying all the moduli to get an absolute equation.
+- Start from the equation with highest moduli to make the math easier towards the end.
+- Create an equation for x using variable k , then substitute  x in the second equation(second largest modulo). after simplifying you will get a equation for variable k using j.., substitute it back into equation for x , which will give another equation with x (main equation ) that can be substituted into the last  congruence equation.we get a equation for j and after another substituiton into the original equation for x  , then you get the absolute equation which gives the value for a
 ---
 # Adrien's signs
 ### Code:
