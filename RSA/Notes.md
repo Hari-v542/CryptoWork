@@ -2,6 +2,7 @@
 
 ## equation [ a**2 = x mod (y) ]
 
+
  <img width="690" height="49" alt="image" src="https://github.com/user-attachments/assets/bb6c929b-66a3-4916-b8e4-6797e1412e87" />
 
 
