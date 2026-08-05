@@ -69,6 +69,8 @@ We can say 40 and 16 are congruent since they both leave the same remainder(resi
 
 # Binomial Expansion Modulo(N)
 
+- In a binomial 
+
 
 
 
