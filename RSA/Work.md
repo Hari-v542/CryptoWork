@@ -17,3 +17,6 @@
 
 ## Private key in Rsa
 <img width="784" height="381" alt="image" src="https://github.com/user-attachments/assets/b94ef7a9-5096-4014-95eb-6a375b858909" />
+
+## Encryption and Signing
+<img width="919" height="326" alt="image" src="https://github.com/user-attachments/assets/b5e1a141-f8f7-4105-ad93-cfb592421b49" />
