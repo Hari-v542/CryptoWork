@@ -13,3 +13,7 @@
 <img width="832" height="60" alt="image" src="https://github.com/user-attachments/assets/89b67792-b732-4925-8622-3b14ec68bb16" />
 
 <img width="841" height="439" alt="image" src="https://github.com/user-attachments/assets/7d3fcbd9-3180-4f0c-9a8c-d84c064d14ea" />
+
+
+## Private key in Rsa
+<img width="784" height="381" alt="image" src="https://github.com/user-attachments/assets/b94ef7a9-5096-4014-95eb-6a375b858909" />
