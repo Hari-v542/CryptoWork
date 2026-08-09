@@ -10,3 +10,4 @@
 ## General notes
 - Relatively prime(co primes) - GCD will be 1 for co primes.(That is given two numbers will be co primes if they have no common factor other than 1).
 - Euler's totient(phi of N)- counts the no  positive integers from 1 to N , that are relatively prime to N.
+<img width="841" height="439" alt="image" src="https://github.com/user-attachments/assets/7d3fcbd9-3180-4f0c-9a8c-d84c064d14ea" />
