@@ -47,3 +47,8 @@ print(signature)
 # Theory
 - The entire security of the RSA cryptosystem relies on the mathematical difficulty of factoring a large number into its constituent primes. This creates a "trapdoor"—easy to compute in one direction, but practically impossible to reverse without a secret piece of information.
 - To generate the private decryption key ($d$), you need to calculate Euler's totient function, $\phi(N)$. For the product of two primes, this $\phi(N)$ = (p-1) * (q-1).
+- There exist a vulnerability in RSA if Modulus N is a monoprime. It becomes easy to calculate the private key from the equation:
+  <img width="501" height="85" alt="image" src="https://github.com/user-attachments/assets/39ce7673-69fa-4837-8ce6-dabf3a07d97c" />
+- Because Euler's totient becomes
+  <img width="501" height="85" alt="image" src="https://github.com/user-attachments/assets/aaaf1e84-d081-40bc-969a-321a83c86644" />
+
