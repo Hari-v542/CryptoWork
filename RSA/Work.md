@@ -12,7 +12,7 @@
 - Some say that to really remain future-proof you should use RSA-4096 or even RSA-8192. However, there is a tradeoff here; it takes longer to generate large prime numbers, plus modular exponentiations are predictably slower with a large modulus.
 
 - Relatively prime(co primes) - GCD will be 1 for co primes.(That is given two numbers will be co primes if they have no common factor other than 1).
-- Euler's totient(phi of N)- counts the no  positive integers from 1 to N , that are relatively prime to N.
+- Euler's totient  $\phi(N)$. - counts the no  positive integers from 1 to N , that are relatively prime to N.
 <img width="832" height="60" alt="image" src="https://github.com/user-attachments/assets/89b67792-b732-4925-8622-3b14ec68bb16" />
 
 <img width="841" height="439" alt="image" src="https://github.com/user-attachments/assets/7d3fcbd9-3180-4f0c-9a8c-d84c064d14ea" />
@@ -46,4 +46,4 @@ print(signature)
 
 # Theory
 - The entire security of the RSA cryptosystem relies on the mathematical difficulty of factoring a large number into its constituent primes. This creates a "trapdoor"—easy to compute in one direction, but practically impossible to reverse without a secret piece of information.
-- To generate the private decryption key ($d$), you need to calculate Euler's totient function, $\phi(N)$. For the product of two primes, this is:$$\phi(N) = (p-1) \cdot (q-1)$$
+- To generate the private decryption key ($d$), you need to calculate Euler's totient function, $\phi(N)$. For the product of two primes, this $\phi(N)$ = (p-1) * (q-1).
