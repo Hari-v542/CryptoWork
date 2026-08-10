@@ -65,4 +65,9 @@ print(signature)
 <img width="750" height="155" alt="image" src="https://github.com/user-attachments/assets/1228cf5c-89b7-41f7-a819-95a34149dadd" />
 
 
+- In rsa usually n has two factors , but in case n hase multiple factors, we calculate euler's totient this way
+-
+- <img width="704" height="155" alt="image" src="https://github.com/user-attachments/assets/2b7a075c-ad39-474b-a5b9-fec8e8068dba" />
+
+
 
