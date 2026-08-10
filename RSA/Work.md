@@ -8,6 +8,7 @@
 - RSA Public key(N,e) . most common value of e - 65537.
 
 ## General notes
+- RSA with 2048 bit modulus is called RSA-2048.
 - Relatively prime(co primes) - GCD will be 1 for co primes.(That is given two numbers will be co primes if they have no common factor other than 1).
 - Euler's totient(phi of N)- counts the no  positive integers from 1 to N , that are relatively prime to N.
 <img width="832" height="60" alt="image" src="https://github.com/user-attachments/assets/89b67792-b732-4925-8622-3b14ec68bb16" />
