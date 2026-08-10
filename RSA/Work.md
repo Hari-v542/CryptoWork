@@ -50,6 +50,16 @@ print(signature)
 - There exist a vulnerability in RSA if Modulus N is a monoprime. It becomes easy to calculate the private key from the equation:
 <img width="501" height="85" alt="image" src="https://github.com/user-attachments/assets/39ce7673-69fa-4837-8ce6-dabf3a07d97c" />
 
+More about N
+
+<img width="785" height="322" alt="image" src="https://github.com/user-attachments/assets/950f6002-d30a-4f9c-a87e-dd432f97682f" />
+
+
+<img width="755" height="487" alt="image" src="https://github.com/user-attachments/assets/cfb45afe-3d1f-4ddc-a443-76ee613b38b3" />
+
+<img width="750" height="155" alt="image" src="https://github.com/user-attachments/assets/1228cf5c-89b7-41f7-a819-95a34149dadd" />
+
+
 - Because Euler's totient becomes
 
 <img width="501" height="85" alt="image" src="https://github.com/user-attachments/assets/aaaf1e84-d081-40bc-969a-321a83c86644" />
