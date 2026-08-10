@@ -43,3 +43,7 @@ print(signature)
 ```
 - We need to bytes_to_long becuase hashing produces bytes, while RSA requires integers.
 - We use the concept of signature to make sure the message is from the original person itself since only they have the private key, and we use public key to decrypt and get the original message
+
+# Theory
+- The entire security of the RSA cryptosystem relies on the mathematical difficulty of factoring a large number into its constituent primes. This creates a "trapdoor"—easy to compute in one direction, but practically impossible to reverse without a secret piece of information.
+- To generate the private decryption key ($d$), you need to calculate Euler's totient function, $\phi(N)$. For the product of two primes, this is:$$\phi(N) = (p-1) \cdot (q-1)$$
