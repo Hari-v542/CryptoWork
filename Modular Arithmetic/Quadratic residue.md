@@ -65,12 +65,13 @@ We can say 40 and 16 are congruent since they both leave the same remainder(resi
 - Find modulo N by multiplying all the moduli to get an absolute equation.
 - Start from the equation with highest moduli to make the math easier towards the end.
 - Create an equation for x using variable k , then substitute  x in the second equation(second largest modulo). after simplifying you will get a equation for variable k using j.., substitute it back into equation for x , which will give another equation with x (main equation ) that can be substituted into the last  congruence equation.we get a equation for j and after another substituiton into the original equation for x  , then you get the absolute equation which gives the value for a
----
+<img width="1151" height="1280" alt="image" src="https://github.com/user-attachments/assets/06d349d5-7c30-4dd1-8563-4faba936154f" />
+
 
 # Binomial Expansion Modulo(N)
 
 - In a binomial 
-<img width="1151" height="1280" alt="image" src="https://github.com/user-attachments/assets/5cd899de-4387-4abe-8d8c-f029d39349f1" />
+
 
 
 
