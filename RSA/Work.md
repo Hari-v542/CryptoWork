@@ -8,6 +8,7 @@
 - RSA Public key(N,e) . most common value of e - 65537.
 
 ## General notes
+- A composite number is always product of primes. (N)
 - RSA with 2048 bit modulus is called RSA-2048.
 - Some say that to really remain future-proof you should use RSA-4096 or even RSA-8192. However, there is a tradeoff here; it takes longer to generate large prime numbers, plus modular exponentiations are predictably slower with a large modulus.
 
@@ -111,6 +112,8 @@ use gmpy2 , it returns a tuple which contains the root value and a boolean showi
 ## Simple(imp) Concept
 
 - When you are working in a finite field $\mathbb{F}_p$ (which just means modular arithmetic with a prime modulus $p$), you are restricted to the numbers from $1$ to $p-1$.
+  
+<img width="811" height="131" alt="image" src="https://github.com/user-attachments/assets/07b2209c-5930-4d89-a102-69e53d617272" />
 
 <img width="766" height="261" alt="image" src="https://github.com/user-attachments/assets/0cb733b0-ca79-4e81-9b56-4dfa1a7a708f" />
 
