@@ -110,6 +110,8 @@ use gmpy2 , it returns a tuple which contains the root value and a boolean showi
 
 ## Simple(imp) Concept
 
+- When you are working in a finite field $\mathbb{F}_p$ (which just means modular arithmetic with a prime modulus $p$), you are restricted to the numbers from $1$ to $p-1$.
+
 <img width="766" height="261" alt="image" src="https://github.com/user-attachments/assets/0cb733b0-ca79-4e81-9b56-4dfa1a7a708f" />
 
 for an equation
