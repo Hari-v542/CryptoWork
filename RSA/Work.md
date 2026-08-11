@@ -87,3 +87,8 @@ d = pow(e,-1,p)
 print(long_to_bytes(pow(ct,d,n)))
 ```
 
+## When e is small
+
+<img width="763" height="762" alt="image" src="https://github.com/user-attachments/assets/97ca7c49-a95d-4463-a9be-3cd6a3b668b8" />
+
+when e is small, the plain text doesn't change because it is smaller than n so it doesn't wrap around it.
