@@ -124,6 +124,7 @@ we use fermats little theorm to solve it
 - A generator (or primitive element) is a special number $g$ within this field. If you take this number $g$ and continually multiply it by itself (calculating $g^1, g^2, g^3 \dots$), the results will eventually cycle through every single non-zero number in the field before returning to $1$.If a number cycles back to $1$ too early before hitting every number, it is not a generator; it only generates a smaller "subgroup."
 
   <img width="752" height="400" alt="image" src="https://github.com/user-attachments/assets/82c66920-4e97-4463-9ba1-c635cf2f80b4" />
+  
   - 1 to (p-1) => All possible remainders
   
 
