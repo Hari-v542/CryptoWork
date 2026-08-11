@@ -70,6 +70,7 @@ We can say 40 and 16 are congruent since they both leave the same remainder(resi
 # Binomial Expansion Modulo(N)
 
 - In a binomial 
+<img width="1151" height="1280" alt="image" src="https://github.com/user-attachments/assets/5cd899de-4387-4abe-8d8c-f029d39349f1" />
 
 
 
