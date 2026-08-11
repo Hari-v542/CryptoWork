@@ -111,3 +111,9 @@ use gmpy2 , it returns a tuple which contains the root value and a boolean showi
 ## Simple(imp) Concept
 
 <img width="766" height="261" alt="image" src="https://github.com/user-attachments/assets/0cb733b0-ca79-4e81-9b56-4dfa1a7a708f" />
+
+for an equation
+
+<img width="310" height="46" alt="image" src="https://github.com/user-attachments/assets/d236b50c-fb2b-4195-9e5e-ddc0effc7aed" />
+
+we use fermats little theorm to solve it
