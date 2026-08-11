@@ -108,3 +108,6 @@ use gmpy2 , it returns a tuple which contains the root value and a boolean showi
 
 <img width="756" height="280" alt="image" src="https://github.com/user-attachments/assets/6339b68c-d764-4545-9f72-70b7c4388cc0" />
 
+## Simple(imp) Concept
+
+<img width="766" height="261" alt="image" src="https://github.com/user-attachments/assets/0cb733b0-ca79-4e81-9b56-4dfa1a7a708f" />
