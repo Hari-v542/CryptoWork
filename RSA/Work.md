@@ -98,3 +98,13 @@ when e is small, the plain text doesn't change because it is smaller than n so i
 <img width="717" height="30" alt="image" src="https://github.com/user-attachments/assets/ffc22ccf-9bb6-49f3-b0c5-31848a4c2eb9" />
 
 use gmpy2 , it returns a tuple which contains the root value and a boolean showing whether the root was exact.
+
+
+## More NOTES
+
+<img width="1037" height="328" alt="image" src="https://github.com/user-attachments/assets/90a134f5-b510-4ffc-aa61-c630a8bb3d32" />
+
+<img width="1002" height="399" alt="image" src="https://github.com/user-attachments/assets/102215d2-cbd1-4902-9413-5bfe3a5207e9" />
+
+<img width="756" height="280" alt="image" src="https://github.com/user-attachments/assets/6339b68c-d764-4545-9f72-70b7c4388cc0" />
+
