@@ -92,3 +92,9 @@ print(long_to_bytes(pow(ct,d,n)))
 <img width="763" height="762" alt="image" src="https://github.com/user-attachments/assets/97ca7c49-a95d-4463-a9be-3cd6a3b668b8" />
 
 when e is small, the plain text doesn't change because it is smaller than n so it doesn't wrap around it.
+
+## How to find roots of large integers in python
+
+<img width="717" height="30" alt="image" src="https://github.com/user-attachments/assets/ffc22ccf-9bb6-49f3-b0c5-31848a4c2eb9" />
+
+use gmpy2 , it returns a tuple which contains the root value and a boolean showing whether the root was exact.
