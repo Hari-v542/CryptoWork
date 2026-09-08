@@ -129,7 +129,7 @@ we use fermats little theorm to solve it
 
 ### Generator
 
-- <img width="1093" height="331" alt="image" src="https://github.com/user-attachments/assets/dce31d42-4cf3-43d8-bcac-6749b19403b7" />
+  <img width="1093" height="331" alt="image" src="https://github.com/user-attachments/assets/dce31d42-4cf3-43d8-bcac-6749b19403b7" />
 
 
 
@@ -138,5 +138,13 @@ we use fermats little theorm to solve it
   <img width="752" height="400" alt="image" src="https://github.com/user-attachments/assets/82c66920-4e97-4463-9ba1-c635cf2f80b4" />
   
   - 1 to (p-1) => All possible remainders
+
+    <img width="1002" height="342" alt="image" src="https://github.com/user-attachments/assets/ef833706-1da7-46dc-9cff-f389f1a26db4" />
+
+    <img width="1002" height="342" alt="image" src="https://github.com/user-attachments/assets/1e7dbb5a-0488-4bf7-ba9f-4e42aa9fd892" />
+
+    <img width="1007" height="364" alt="image" src="https://github.com/user-attachments/assets/01984f50-4158-40e0-99bd-303879925926" />
+
+
   
 
